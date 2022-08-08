@@ -8,9 +8,9 @@ The HDB released a set of resale price guidelines for HDB resale units on 22 Nov
 
 This paper seeks to explore;
 
-The reasons behind this trend
-If the trend is likely to continue
-Whether a purchase of a 4-room Model A flat that is 25 years and above will still have its resale value appreciated/depreciated
+1. The reasons behind this trend
+2. If the trend is likely to continue
+3. Whether a purchase of a 4-room Model A flat that is 25 years and above will still have its resale value appreciated/depreciated
 
 
 Official data of the resale HDB units were sourced from: https://data.gov.sg/dataset/resale-flat-prices
